@@ -14,5 +14,5 @@ I'm specialized in creation of **GTA V (FiveM)** scripts.
 
 ## Community
 <p><a href="https://discord.gg/kTqPMztxJy">
-  <img src="https://discord.com/api/guilds/1341880018724458496/widget.json"/>
+  <img src="https://img.shields.io/discord/1341880018724458496?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
 </a></p>
